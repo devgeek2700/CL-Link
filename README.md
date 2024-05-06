@@ -34,7 +34,22 @@ https://course-learn-webpage.onrender.com
 
 ## Screenshots
 
+## Course Listing
+
+![App Screenshot](https://github.com/devgeek2700/Course-Learn-Webpage/blob/master/src/Output/o1.png?raw=true)
+
+
+## Course Details
+
+![App Screenshot](https://github.com/devgeek2700/Course-Learn-Webpage/blob/master/src/Output/o2.png?raw=true)
+
+
+## Student Dashboard
+
+![App Screenshot](https://github.com/devgeek2700/Course-Learn-Webpage/blob/master/src/Output/o3.png?raw=true)
+
 ## DEMO Video
+![App Screenshot](https://github.com/devgeek2700/Course-Learn-Webpage/blob/master/src/Output/couser%20learn%20video.gif?raw=true)
 
 
 
