@@ -18,11 +18,11 @@ A user-friendly student dashboard to display enrolled courses, course details, a
    git clone https://github.com/devgeek2700/Course-Learn-Webpage.git
 
 2. Navigate to the project directory:
-```sh
+   ```sh
 cd student-dashboard
 
 3. Install dependencies:
-```sh
+   ```sh
 npm install
 
 4. Start Project:
