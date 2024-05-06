@@ -1,6 +1,5 @@
 # Student Dashboard
 
-## Description
 A user-friendly student dashboard to display enrolled courses, course details, and completion status.
 
 ## Features
@@ -16,4 +15,4 @@ A user-friendly student dashboard to display enrolled courses, course details, a
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/student-dashboard.git
+   git clone https://github.com/devgeek2700/Course-Learn-Webpage.git
