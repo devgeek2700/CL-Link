@@ -19,11 +19,11 @@ A user-friendly student dashboard to display enrolled courses, course details, a
 
 2. Navigate to the project directory:
    ```sh
-     cd student-dashboard
+   cd student-dashboard
 
 3. Install dependencies:
    ```sh
-      npm install
+   npm install
 
 4. Start Project:
    ```sh
